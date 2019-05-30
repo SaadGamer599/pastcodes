@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const devs = ['389090790984515594'];
+const devs = ['454441083758182400'];
 const db = require('quick.db');
 const premium = ['470896018603376640']
 const client = new Discord.Client();   
@@ -27,7 +27,7 @@ const youtube = new YouTube("AIzaSyCQapWI28_Um0n4AEGNVw7l3QZqhQF0cFs");
 const sql = require("sqlite");
 const dateFormat = require('dateformat'); 
 const pretty = require('pretty-ms') 
-const prefix = '%';
+const prefix = '&';
 var table = require('table').table
 var ti={}  
 ,spee={}
